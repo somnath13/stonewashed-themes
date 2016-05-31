@@ -17,7 +17,7 @@ hi CursorColumn guibg=#fdfdfd
 hi CursorLine guibg=#ffffff gui=none
 hi Delimiter guifg=#000000
 hi Define guifg=#5f0000 gui=underline
-hi Error guifg=#af0000 guibg=#f7f7f7 gui=bold,undercurl
+hi Error guifg=#F16868 guibg=#FFFFFF gui=reverse
 hi Exception guifg=#5f0000 gui=underline
 hi Float guifg=#5f0000
 hi Function guifg=#5f5fd7
@@ -39,8 +39,8 @@ hi Special guifg=#5f00ff
 hi SpecialChar guifg=#ff0000
 hi SpecialKey guibg=#e4e4e4 guifg=#a8a8a8
 hi Statement guifg=#5f0000
-hi StatusLine guifg=#ccc0b7 guibg=#af87d7
-hi StatusLineNC guibg=#ccc0b7 guifg=#ccc0b7
+hi StatusLine guibg=#FFFFFF guifg=#af87d7
+hi StatusLineNC guifg=#E5DED7 guibg=#af87d7
 hi StorageClass guifg=#00005f 
 hi String guifg=#005f00 
 hi Structure guifg=#5f8700 gui=underline
